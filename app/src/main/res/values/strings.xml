@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TallerRelativeLayout</string>
+    <string name="str_1">SPRING!</string>
+    <string name="str_2">Spring Season.</string>
+    <string name="str_3">Opened!</string>
+    <string name="str_4">Discover our topsellers</string>
+    <string name="str_5">Helena</string>
+    <string name="str_6">$ 120</string>
+    <string name="str_7">$ -180</string>
+    <string name="str_8">Betruscka</string>
+    <string name="str_9">$ 80</string>
+</resources>
