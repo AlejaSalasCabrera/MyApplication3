@@ -102,7 +102,7 @@
             android:id="@+id/image2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/m1"
+            android:background="@drawable/d1"
             android:layout_margin="30dp"
             android:layout_alignParentLeft="true"
             android:layout_marginRight="10dp"
@@ -141,7 +141,7 @@
             android:id="@+id/image3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/m2"
+            android:background="@drawable/d2"
             android:layout_margin="30dp"
             android:layout_alignParentRight="true"
             android:layout_marginLeft="10dp"
@@ -154,7 +154,7 @@
             android:text="@string/str_8"
             android:layout_below="@id/image3"
             android:layout_alignParentRight="true"
-            android:layout_marginRight="30dp"
+            android:layout_marginRight="76dp"
             android:textColor="@color/colorPrimary"/>
         <TextView
             android:id="@+id/txt_9"
@@ -163,7 +163,7 @@
             android:text="@string/str_9"
             android:layout_below="@id/txt_8"
             android:layout_alignParentRight="true"
-            android:layout_marginRight="30dp"/>
+            android:layout_marginRight="116dp"/>
     </RelativeLayout>
     <RelativeLayout
 
@@ -174,7 +174,7 @@
             android:id="@+id/image4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/m1"
+            android:background="@drawable/d1"
             android:layout_margin="30dp"
             android:layout_alignParentLeft="true"
             android:layout_marginRight="10dp"
@@ -213,7 +213,7 @@
             android:id="@+id/image5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/m2"
+            android:background="@drawable/d2"
             android:layout_margin="30dp"
             android:layout_alignParentRight="true"
             android:layout_marginLeft="10dp"
@@ -226,7 +226,7 @@
             android:text="@string/str_8"
             android:layout_below="@id/image5"
             android:layout_alignParentRight="true"
-            android:layout_marginRight="30dp"
+            android:layout_marginRight="76dp"
             android:textColor="@color/colorPrimary"/>
         <TextView
             android:id="@+id/txt_14"
@@ -235,7 +235,7 @@
             android:text="@string/str_9"
             android:layout_below="@id/txt_13"
             android:layout_alignParentRight="true"
-            android:layout_marginRight="30dp"/>
+            android:layout_marginRight="116dp"/>
     </RelativeLayout>
 
 </LinearLayout>
